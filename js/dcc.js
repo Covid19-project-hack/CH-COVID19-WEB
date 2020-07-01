@@ -47,7 +47,7 @@ listgrp.innerHTML+=
   <h5><b>${element.name}</b></h5>
 </div>
 <br>
-<p class="mb-1"><i class="fas fa-map-marker-alt" style="margin-right: 15px;"> </i>   ${element.district}</p>
+<p class="mb-1"><i class="fas fa-map-marker-alt" style="margin-right: 15px;"> </i>   ${element.type}</p>
 </div>`;
 });   
 });
